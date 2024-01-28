@@ -75,5 +75,9 @@ Currently, two official plugins are available:
 #
 
 
+## License
+
+[MIT](LICENSE) © AKASH KUMAR
+
 
 
